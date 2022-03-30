@@ -6,7 +6,7 @@ just convert a CSV file and it can show images from google form response.
 
 ### Link of tool ? or demo ?
 
-here faking : https://wahyuhidayattz.000webhostapp.com/
+Here the link : https://wahyuhidayattz.000webhostapp.com/
 
 ### Which tools i used for making this tool ?
 
@@ -24,4 +24,7 @@ here faking : https://wahyuhidayattz.000webhostapp.com/
 
 This is a screenshots, just 3 screenshots
 
+![screenshots 1](/images/1.png)
+![screenshots 1](/images/2.png)
+![screenshots 1](/images/3.png)
 
