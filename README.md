@@ -24,15 +24,6 @@ Here the link : https://wahyuhidayattz.000webhostapp.com/
 
 This is a screenshots, just 3 screenshots
 
-<<<<<<< HEAD
-![screenshots 1](/images/1.png)
-![screenshots 1](/images/2.png)
-![screenshots 1](/images/3.png)
-=======
 ![](/images/1.png)
-
 ![](/images/2.png)
-
 ![](/images/3.png)
->>>>>>> 472008a07277a8fcebb23a47f33525faf009af8c
-
