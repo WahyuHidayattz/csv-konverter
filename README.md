@@ -24,9 +24,9 @@ here faking : https://wahyuhidayattz.000webhostapp.com/
 
 This is a screenshots, just 3 screenshots
 
-[!](/images/1.png)
+![](/images/1.png)
 
-[!](/images/2.png)
+![](/images/2.png)
 
-[!](/images/3.png)
+![](/images/3.png)
 
